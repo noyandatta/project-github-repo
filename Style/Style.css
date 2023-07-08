@@ -124,4 +124,45 @@
     display:flex;
     justify-content: space-around;
 }
+.foot{
+    background-color: black;
+    height:220px;
+    display:flex;
+    justify-content: space-around;
+    text-align: center;
+    padding:120px;
+}
+.ilogo{
+    width:100px;
+    margin-bottom: 20px;
+}
+.ch{
+    width:200px;
+    color:white;
+    font-size: small;
 
+}
+
+.link{
+    margin-bottom: 40px;
+}
+.last{
+    margin-left: 80px;
+}
+.texx{
+    font-size: small;
+    text-align: left;
+    margin-bottom: 8px;
+}
+.list{
+    color:white;
+    width: 200px;
+    list-style: none;
+    /* text-align: left; */
+    /* justify-content: center; */
+    font-size: 17px;
+    
+}
+.contr{
+    text-align: left;
+}
