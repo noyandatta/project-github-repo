@@ -1,0 +1,51 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.contrainer{
+    background-color:rgb(65, 62, 62);
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    padding:20px
+}
+.logo{
+   width:100px;
+}
+.item{
+    list-style: none;
+    margin-left: 10px;
+}
+.menu{
+    color:white;
+    display:flex;
+}
+.ban{
+    width:250px;
+}
+.first{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    height:100vh;
+    background-image: url("../Images/background\ \(1\).png"),
+    linear-gradient(45deg,#1a1818,#161515);
+}
+.para{
+    color:white;
+    
+}
+.head{
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.par{
+    margin-bottom: 10px;
+}
+.btn{
+    background-color: red;
+    color:white;
+    padding:10px;
+    border: none;
+    border-radius: 2px;
+}
