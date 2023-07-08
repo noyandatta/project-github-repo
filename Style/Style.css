@@ -49,3 +49,79 @@
     border: none;
     border-radius: 2px;
 }
+.sec{
+    height:70vh;
+}
+.twocon{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.service,.about{
+    text-align: center;
+    font-size:45px;
+    margin-top: 20px;
+}
+.pic{
+    width:250px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.paragraph{
+    margin-bottom: 100px;
+    margin-left: 30px;
+}
+#tex{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: small;
+}
+.topara{
+    height:230px;
+    width:180px;
+    background-color: black;
+    text-align: center;
+    color:white;
+    border-radius: 10px;
+    box-shadow:10px 10px 50px 10px rgb(95, 89, 89);
+    
+    
+
+}
+.bklogo{
+    width:50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    
+}
+#digital{
+    margin-bottom: 7px;
+}
+#pera{
+    font-size: 12px;
+   
+}
+.but{
+    padding:8px;
+    font-size: 12px;
+    margin-top: 10px;
+    background-color: rgb(48, 44, 44);
+    border: none;
+    border-radius: 2px;
+    color:white;
+}
+.service{
+    margin-bottom: 40px;
+    color:white;
+}
+.threecon{
+    height:70vh;
+    background-image: url('../Images/background\ \(1\).png'),
+    linear-gradient(45deg,#1a1818,#161515);
+}
+.fourcon{
+    display:flex;
+    justify-content: space-around;
+}
+
